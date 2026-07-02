@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd last-minute-life-saver && npm run build",
+  "installCommand": "cd last-minute-life-saver && npm install",
+  "outputDirectory": "last-minute-life-saver/.next",
+  "framework": "nextjs"
+}

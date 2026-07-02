@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 10 /c)",
+      "Bash(C:\\\\Users\\\\b2hkr\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-b2hkr-OneDrive-Desktop-website-project\\\\7dc6adcc-56e4-4288-85cd-634e6e05d827\\\\tasks\\\\b9q96xs43.output)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(taskkill /f /im node.exe)",
+      "Bash(npm run *)",
+      "Bash(taskkill *)"
+    ]
+  }
+}
